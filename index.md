@@ -1,6 +1,6 @@
 *June 30 - July 5, 2024  Yokohama Japan*
 
-![wcci](https://github.com/XWang1216/WCCI2024/blob/main/WCCI2024/WCCI.png)
+![wcci](WCCI.png)
 
 ****
 
