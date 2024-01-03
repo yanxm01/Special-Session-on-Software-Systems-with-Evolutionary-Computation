@@ -4,31 +4,23 @@
 
 ****
 
-**Aim and Scope**
+**Scope and Topics**
 
-The special session focuses on the emerging field of machine learning assisted heuristics for combinatorialoptimization. It aims to bring together researchers from various disciplines to explore novel theories, algorithms, and applications in combinatorial optimization. As optimization plays an increasingly important role in science and engineering, this special session will provide a platform for experts from both academia and industry to discuss promises and challenges in solving combinatorial optimization problems using machine learning techniques and heuristics algorithms.
+The Special Session on Software Systems with Evolutionary Computation was a captivating and knowledge-rich event that gathered experts and researchers to explore the fusion of evolutionary computation techniques with software systems. The session covered diverse themes, including algorithm design and optimization, parallel and distributed computing, real-world applications, and evolutionary machine learning integration. Attendees witnessed cutting-edge software tools and frameworks tailored for evolutionary computation, opening new avenues for efficient algorithm development and deployment. With a focus on hybrid methods and their superior performance, the session unveiled the potential of evolutionary computation to tackle complex problems across various domains, including autonomous agents and robotics. Participants also gained insights into visualization, analysis techniques, and performance evaluation, promoting a deeper understanding of evolutionary algorithms. Overall, the session fostered collaboration, sparked new research ideas, and left attendees inspired to drive forward the frontiers of evolutionary computation with software systems.
 
-Combinatorial optimization is a branch of mathematics and computer science that deals with the efficient arrangement or selection of elements from a finite set. The target of combinatorial optimization problems (COPs) is to find the optimal combination or arrangement of elements, subject to specific constraints and criteria. The complexity and difficulty of solving COPs often arise from the combinatorial structure of the problem, where the interactions between different elements contribute to the overall optimization challenge. There is a wide range of applications of combinatorial optimization in real-world scenarios, such as optimizing routes for delivery trucks, scheduling tasks in manufacturing, the fine-tuning of telecommunication networks and managing financial portfolios. However, solving such NP-hard problems is non-trivial due to the huge search space of feasible solutions as well as the complexity arising from combinatorial structures. As the scale of the problem grows, finding an optimal solution becomes increasingly difficult for COPs. Furthermore, the dynamic nature of real-world environments demands adaptive optimization strategies, and trade-offs between conflicting objectives may further increase the difficulty of the optimisation process. While combinatorial optimization serves as a powerful tool for addressing real-world tasks, it becomes more and more essential to develop efficient algorithms to overcome the inherent difficulties of COPs. 
-
-Heuristics and meta-heuristics methods, such as, Tabu-based methods, swarm intelligence algorithms, genetic algorithms,  have been successfully applied to various types of COPs since the last century. However, these methods suffer from huge computational complexity as they tackle large-scale COPs from scratch and need tailored designs for each specific COP, leading to a lack of efficiencies and generalizability. The recent advances of machine learning and success of pre-trained models, for example, large language models, inspire us to enpower and revitalize the area of using (meta-)heuristics for solving combinatorial optimization problems. Additionally, graph representation learning has emerged as a promising paradigm for solving COPs, since most COPs can be described as graph-structured data. Graph representation learning can not only handle the inherent complexity of COPs but also learn powerful information embedded in graph representations. However, research on solving COPs by heuristics with the help of machine learning techniques is still in its early stages. Therefore, we propose a special issue here to encourage researchers to focus on and contribute to the area of Machine Learning assisted Heuristics for Combinatorial Optimization. 
 
 ****
 
 **Authors are invited to submit papers on one or more of the following topics**
 
-• Graph neural networks for combinatorial optimization
-
-• Large language models with heuristics for combinatorial optimization
-
-• Pre-trained models with heuristics for combinatorial optimization
-
-• Data-driven combinatorial optimization and applications
-
-• Combination of neural networks and heuristic algorithms
-
-• Single-/Multi-/Many-objective data-driven large-scale optimization
-
-• Multi-task and knowledge transfer in data-driven optimization
+- Evolutionary algorithm design and optimization with software systems.
+- Software tools and frameworks for evolutionary computation.
+- Parallel and distributed evolutionary computation software systems.
+- Real-world applications of evolutionary computation in software engineering.
+- Evolutionary computation for optimization and problem-solving in various domains.
+- Evolutionary machine learning algorithms integrated into software systems.
+- Hybrid methods combining evolutionary computation with other optimization or learning techniques.
+- Evolutionary computation for autonomous agents and robotics in software systems.
 
 
 ****
@@ -36,7 +28,7 @@ Heuristics and meta-heuristics methods, such as, Tabu-based methods, swarm intel
 **Submission Guideline**
 
 
-Please follow the submission guideline from the WCCI 2024 Submission Website <https://2024.ieeewcci.org/>. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Machine Learning assisted Heuristics for Combinatorial Optimization. All papers accepted and presented at WCCI 2024 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the WCCI 2024 Submission Website <https://2024.ieeewcci.org/>. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Software Systems with Evolutionary Computation. All papers accepted and presented at WCCI 2024 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 ****
 
@@ -52,28 +44,28 @@ Paper Submission: January 15th, 2024
 **Organizers**
 
 
+Prof. Han Huang
 
-Dr. Xilu Wang, Faculty of Technology, Bielefeld University, Germany, Email: <xilu.wang@uni-bielefeld.de>
+Dr. Xueming Yan
 
-Xiangyu Wang, Faculty of Technology, Bielefeld University, Germany, Email: <xiangyu.wang@uni-bielefeld.de>
+Dr. Chaoda Peng
 
-Shiqing Liu, Faculty of Technology, Bielefeld University, Germany, Email: <shiqing.liu@uni-bielefeld.de>
 
-Prof. Yaochu Jin, School of Engineering, Westlake University, China, Email: <jinyaochu@westlake.edu.cn>
+**Contact Emails**
 
-Prof. Ulrich Rückert, Faculty of Technology, Bielefeld University, Germany, Email: <rueckert@tachfak.uni-bielefeld.de>
+<hhan@scut.edu.cn>
+
+<yanxm@gdufs.edu.cn>
+
 
 ****
 
 **Biography of the Organizers**
 
 
-Xilu Wang is currently a postdoc in faculty of technology, Bielefeld University, Germany. She obtained her Ph.D. in 2022,  supervised by Prof. Yaochu Jin, with a thesis on “Bayesian Evolutionary Optimization for Heterogeneously Expensive Multi-objective Problems”. She has been involved in research since 2018 and published more than 10 papers in international journals and conferences. Her current research lines are Bayesian optimization, federated optimization, transfer learning, surrogate modelling and computational intelligence.
+Han Huang (Senior Member, IEEE) received the B.Man. degree in information management and information system from the School of Mathematics, South China University of Technology (SCUT), Guangzhou, China, in 2003, and the Ph.D. degree in computer science from SCUT in 2008. He is currently a full professor and doctoral supervisor of the School of Software Engineering at South China University of Technology. He is currently serving as an associate editor of IEEE Transactions on Evolutionary Computation (IF: 16.497), Complex & Intelligent Systems (IF: 5.8) and IEEE Transactions on Emerging Topics in Computational Intelligence (IF: 5.3), and Director of Teaching Steering Committee for Software Engineering of Undergraduate Colleges and Universities in Guangdong Province. Prof. Huang has made great contributions to the scholarship on the theories and application of intelligent optimization algorithms. For example, he has proposed a time complexity analysis method of real-world evolutionary algorithms, algorithms for efficient and accurate image matting, a method for automated test case generation based on path coverage, etc. Prof. Huang has hosted more than twenty national and provincial projects. He has published two books, Theory and Practice of Intelligent algorithm and Theory, Methods and Tools for Time Complexity Analysis of Evolutionary Algorithm. He has also published more than 80 papers in IEEE TCYB, IEEE TETC, IEEE TSE, IEEE TEVC, IEEE TIP, IEEE TFS, and Science China, including ESI highly cited papers. As the first inventor, Prof. Huang has 41 invention patents granted in China and seven invention patents granted in the United States. He won China Patent Excellence Award and developed an association standard entitled “Standard for glass-box testing without source code” as the first completer. Additionally, Prof. Huang pays attention to social services. Over the past five years, he has given more than 50 public lectures on science and technology for government offices, primary and secondary schools, CCF, YOCSEF.
 
-Xiangyu Wang is currently a Ph.D. student, in faculty of technology, Bielefeld University, Germany. She received a B.Sc. degree and an M.Sc. degree in mathematics and applied mathematics from China University of Petroleum, Qingdao, Shandong, China, in 2020 and 2022, respectively. She has been published about 10 papers in international journals and conferences. Her current research interests include graph neural networks, evolutionary algorithms, and statistical methods in metabolomics. She has been in charge of two projects as a project leader. 
+Xueming Yan received the Ph.D. degree in computer science from the South China University of Technology, Guangzhou, China, in 2018.She was a visiting scholar at the University of Surrey in the UK, and a postdoctoral researcher at the Bielefeld University in Germany. She is currently an associate professor with the School of Information Science and Technology, Guangdong University of Foreign Studies, Guangzhou, China. Her research interests include graph neural networks, optimization, and natural language processing.
 
-Shiqing Liu is currently a Ph.D. student in the faculty of technology, Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology, Beijing, China in 2017 and 2020 respectively. Her current research interests include neural combinatorial optimization, graph neural networks, federated learning and neural architecture search. She received the Best Student Paper Award at DOCS2023 and the Outstanding Presentation Award at ABCP2023. She is currently a graduate student member of IEEE.
+Chaoda Peng received the Ph.D. degree from the School of Automation, Guangdong University of Technology, Guangzhou, China, in 2019. He was a visiting Ph.D. student with the Department of Electrical and Computer Engineering, Michigan State University, East Lansing, MI, USA. He is currently a lectuter with the College of Mathematics and Informatics, South China Agricultural University, Guangzhou, China. His current research interests include constrained multiobjective evolutionary computation, UAV path planning, and mobile edge computing.
 
-Yaochu Jin received the B.Sc., M.Sc., and Ph.D. degrees from Zhejiang University, Hangzhou, China in 1988, 1990 and 1996, respectively, and the Dr.-Ing. degree from Ruhr University Bochum, Germany in 2001. He was an Alexander von Humboldt Professor for AI and Head of the Nature-Inspired Computing and Engineering (NICE) Group, Faculty of Technology, Bielefeld University, Germany. He currently is Chair Professor of AI, School of Engineering, Westlake University, China.His research interests include computational approaches to understanding evolution, learning and development in biology, and biological approaches to solving complex engineering problems. He was the Program Chair of the 2013 IEEE Congress on Evolutionary Computation, Conference Chair of the 2020 IEEE Congress on Evolutionary Computation, and General Co-Chair of the 2016 IEEE Symposium Series on Computational Intelligence. Prof. Jin is an Associate Editor the IEEE Transactions on Evolutionary Computation and IEEE Transactions on Cybernetics. He has given plenary / keynote talks on over 50 international conferences on various topics, including data-driven optimization, federated learning and optimization, morphogenetic robotics, and multi-objective machine learning. He is a Member of Academia Europaea and Fellow of IEEE.
-
-Ulrich Rückert received the Diploma degree in computer science and the Dr.-Ing. degree in electrical engineering from the University of Dortmund, Dortmund, Germany, in 1984 and 1989, respectively. From 1985 to 1992, he worked on microelectronic implementation of neural networks at the Faculty of Electrical Engineering, University of Dortmund. From 1993 to 1994, he was a Professor with the Technical University of Hamburg-Harburg, Germany, heading a research group on Microelectronics. In 1995, he joined the Heinz Nixdorf Institute, University of Paderborn, Paderborn, Germany. As a Full Professor, he held the chair in System and Circuit Technology. In 2001, he was appointed Adjunct Professor with the Department of Information Technology, Queensland University of Technology, Brisbane, Australia. Since 2009, he has been a Professor with Bielefeld University, Bielefeld, Germany. His research group Cognitronics and Sensor Systems is a member of the Cognitive Interaction Technology Cluster of Excellence. His main research interests are bio-inspired architectures for nanotechnologies and cognitive robotics.
