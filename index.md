@@ -1,6 +1,6 @@
 *June 30 - July 5, 2024  Yokohama Japan*
 
-![WCCI](WCCI.png)
+![WCCI](yanwcci2024.jpg)
 
 ****
 
