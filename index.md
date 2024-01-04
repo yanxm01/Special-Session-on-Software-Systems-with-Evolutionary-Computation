@@ -28,7 +28,7 @@ The Special Session on Software Systems with Evolutionary Computation was a capt
 **Submission Guideline**
 
 
-Please follow the submission guideline from the WCCI 2024 Submission Website <https://2024.ieeewcci.org/>. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the Special Session on Software Systems with Evolutionary Computation. All papers accepted and presented at WCCI 2024 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
+Please follow the submission guideline from the WCCI 2024 Submission Website <https://2024.ieeewcci.org/>. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the [Special Session on Software Systems with Evolutionary Computation](https://yanxm01.github.io/Special-Session-on-Software-Systems-with-Evolutionary-Computation/). All papers accepted and presented at WCCI 2024 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.
 
 ****
 
@@ -48,7 +48,7 @@ Prof. Han Huang, School of Software Engineering，South China University of Tech
 
 Dr. Xueming Yan, School of Information Science and Technology, Guangdong University of Foreign Studies, Guangzhou, China, Email: <yanxm@gdufs.edu.cn>
 
-Dr. Chaoda Peng, College of Mathematics and Informatics, South China Agricultural University, Guangzhou, China. 
+Dr. Chaoda Peng, College of Mathematics and Informatics, South China Agricultural University, Guangzhou, China, Email: <chaodapeng@scau.edu.cn>
 
 
 ****
